@@ -1,0 +1,5 @@
+|                                     Problem link                                      |      Problem tab      | Necessary knowledge |  Difficulty  | Status |                        Solution                         |
+| :-----------------------------------------------------------------------------------: | :-------------------: | :-----------------: | :----------: | :----: | :-----------------------------------------------------: |
+| [E. Rendez-vous de Marian et Robin](https://codeforces.com/problemset/problem/2014/E) | Graphs, Shortest path |    [[Dijkstra]]     | Upper Medium |   AC   | [[Rendez-vous de Marian et Robin (Round 974 (Div. 3))]] |
+|                                                                                       |                       |                     |              |        |                                                         |
+|                                                                                       |                       |                     |              |        |                                                         |

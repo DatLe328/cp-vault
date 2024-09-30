@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "efe3804aa364e1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "98c4721eaca25822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24fdba9404816d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. String/Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1b8eaeeeb793ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca42c223225515aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bf89d8b08d1e882",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c10c68d99bceebe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f3c174a465890c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f521e11c1a13cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a55d63e509eee7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f21787905117e43d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10. String/Hashing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b8446afba9e7e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10. String/Hashing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a68149631e9b4645",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e86ce21fc921c091",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10. String/Hashing.md"
+              }
+            }
+          },
+          {
+            "id": "58328f7185094755",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "24fdba9404816d58",
+  "lastOpenFiles": [
+    "2. Data Structures/Disjoint Sets Union/DSU.md",
+    "2. Data Structures/Disjoint Sets Union/!Problem List.md",
+    "2. Data Structures/Disjoint Sets Union/Sources/C. Experience.md",
+    "2. Data Structures/Disjoint Sets Union/Sources",
+    "2. Data Structures/Disjoint Sets Union",
+    "4. Graph/Articulation Points and Bridges/!Problem List.md",
+    "4. Graph/Articulation Points and Bridges/Count bridge and joint.md",
+    "2. Data Structures/Suffix Array.md",
+    "2. Data Structures/Prefix sum.md",
+    "2. Data Structures/MST.md",
+    "2. Data Structures/Monotonic Stack.md",
+    "2. Data Structures/LCA.md",
+    "2. Data Structures/Bitset.md",
+    "2. Data Structures/Trie/Trie.md",
+    "2. Data Structures/Trie/Prefix Trie.md",
+    "2. Data Structures/Trie/Binary Trie.md",
+    "2. Data Structures/Trie/!Problem List.md",
+    "2. Data Structures/SQRT/2.1. Problem List.md",
+    "2. Data Structures/SQRT/SQRT Decomposition.md",
+    "2. Data Structures/SQRT/Mo's alogorithm online.md",
+    "2. Data Structures/SQRT/Mo's Algorithm.md",
+    "2. Data Structures/SQRT/Sources/H. Robin Hood Archery.md",
+    "2. Data Structures/SegmentTree/1.1. Problem List.md",
+    "2. Data Structures/SegmentTree/Merge sort tree.md",
+    "2. Data Structures/SegmentTree/SegmentTree.md",
+    "2. Data Structures/SegmentTree/Wavelet Tree.md",
+    "2. Data Structures/GNU C++ STL/Tree_order_statistics_node_update.md",
+    "2. Data Structures/GNU C++ STL/Ordered Set.md",
+    "2. Data Structures/GNU C++ STL",
+    "4. Graph/Shortest Path/sources",
+    "4. Graph/Heavy-Light Decomposition",
+    "4. Graph/Centroid Decomposition",
+    "4. Graph/!Miscellaneous",
+    "4. Graph/Shortest Path",
+    "4. Graph/Articulation Points and Bridges",
+    "2. Data Structures/Trie"
+  ]
+}
