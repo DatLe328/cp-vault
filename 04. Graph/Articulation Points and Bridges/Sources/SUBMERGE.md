@@ -45,22 +45,30 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
 
-    cin >> n >> m;
-    for (int i = 0; i < m; i++) {
-        int u, v;   cin >> u >> v;
-        adj[u].push_back(v);
-        adj[v].push_back(u);
-    }
-    for (int i = 1; i <= n; i++) {
-        if (!num[i]) {
-            dfs(i, i);
-        }
-    }
-    int cntJoint = 0;
-    for (int i = 1; i <= n; i++) {
-        cntJoint += joint[i];
-    }
-    cout << cntJoint << ' ' << bridge;
+    while (true) {
+		cin >> n >> m;
+		if (n == 0)	break;
+		for (int i = 1; i <= n; i++) {
+			adj[i].clear();
+			joint[i] = num[i] = low[i] = 0;
+		}
+		timer = 0;
+		for (int i = 0; i < m; i++) {
+			int u, v;	cin >> u >> v;
+			adj[u].push_back(v);
+			adj[v].push_back(u);
+		}
+		for (int i = 1; i <= n; i++) {
+			if (!num[i]) {
+				dfs(i, i);
+			}
+		}
+		int cnt = 0;
+		for (int i = 1; i <= n; i++) {
+			cnt += joint[i];
+		}
+		cout << cnt << '\n';
+	}
 
     return 0;
 }

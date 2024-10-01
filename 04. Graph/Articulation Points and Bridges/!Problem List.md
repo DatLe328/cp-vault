@@ -1,0 +1,7 @@
+|                             Problem link                             |           Problem tab           |              Necessary knowledge               | Difficulty | Status |       Solution        |
+| :------------------------------------------------------------------: | :-----------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------------: |
+|          [GRAPH_VNOI](https://oj.vnoi.info/problem/graph_)           |             DFS/BFS             |           [[Count bridge and joint]]           |    Easy    |   AC   |                       |
+|         [SUBMERGE](https://www.spoj.com/problems/SUBMERGE/)          |             DFS/BFS             |           [[Count bridge and joint]]           |    Easy    |   AC   |     [[SUBMERGE]]      |
+|          [NKPOLICE](https://oj.vnoi.info/problem/nkpolice)           |             DFS/BFS             |           [[Count bridge and joint]]           |   Medium   |        |                       |
+|            [KBUILD](https://oj.vnoi.info/problem/kbuild)             |               LCA               |      [[Count bridge and joint]], [[LCA]]       |   Medium   |   WA   |                       |
+| [A. Cutting Figure](https://codeforces.com/problemset/problem/193/A) | Constructive Algorithms, Graphs | [[Count bridge and joint]], [[2D to 1D graph]] |   Medium   |   AC   | [[A. Cutting Figure]] |

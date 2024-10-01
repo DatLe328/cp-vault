@@ -37,28 +37,28 @@ Khi tính trong modulo M, độ phức tạp của các phương pháp tính nCk
 - **Vật lý và khoa học máy tính**: Sử dụng trong các bài toán về phân phối và phân tích dữ liệu.
 
 ```cpp
-ll qexp(ll a, ll b, ll m) {
-    ll res = 1;
-    while (b) {
-        if (b % 2) res = res * a % m;
-        a = a * a % m;
-        b /= 2;
-    }
-    return res;
-}
- 
-ll fact[MAX_N], invf[MAX_N];
- 
-void precompute(int n) {
-    fact[0] = 1;
-    for (int i = 1; i <= n; i++) fact[i] = fact[i - 1] * i % MOD;
-    invf[0] = 1;
-    invf[n] = qexp(fact[n], MOD - 2, MOD);
-    for (int i = n - 1; i > 0; i--) invf[i] = invf[i + 1] * (i + 1) % MOD;
-}
- 
-ll nCk(int n, int k) {
-    if (k < 0 || k > n) return 0;
-    return fact[n] * invf[k] % MOD * invf[n - k] % MOD;
-}
+	ll qexp(ll a, ll b, ll m) {
+	    ll res = 1;
+	    while (b) {
+	        if (b % 2) res = res * a % m;
+	        a = a * a % m;
+	        b /= 2;
+	    }
+	    return res;
+	}
+	 
+	ll fact[MAX_N], invf[MAX_N];
+	 
+	void precompute(int n) {
+	    fact[0] = 1;
+	    for (int i = 1; i <= n; i++) fact[i] = fact[i - 1] * i % MOD;
+	    invf[0] = 1;
+	    invf[n] = qexp(fact[n], MOD - 2, MOD);
+	    for (int i = n - 1; i > 0; i--) invf[i] = invf[i + 1] * (i + 1) % MOD;
+	}
+	 
+	ll nCk(int n, int k) {
+	    if (k < 0 || k > n) return 0;
+	    return fact[n] * invf[k] % MOD * invf[n - k] % MOD;
+	}
 ```

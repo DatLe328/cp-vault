@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. String/Hashing.md",
+                "file": "12. Search/Ternary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#asd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. String/Hashing.md",
+                "file": "12. Search/Ternary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. String/Hashing.md",
+                "file": "12. Search/Ternary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. String/Hashing.md"
+                "file": "12. Search/Ternary Search.md"
               }
             }
           },
@@ -158,41 +158,41 @@
   },
   "active": "24fdba9404816d58",
   "lastOpenFiles": [
-    "2. Data Structures/Disjoint Sets Union/DSU.md",
-    "2. Data Structures/Disjoint Sets Union/!Problem List.md",
-    "2. Data Structures/Disjoint Sets Union/Sources/C. Experience.md",
-    "2. Data Structures/Disjoint Sets Union/Sources",
-    "2. Data Structures/Disjoint Sets Union",
-    "4. Graph/Articulation Points and Bridges/!Problem List.md",
-    "4. Graph/Articulation Points and Bridges/Count bridge and joint.md",
-    "2. Data Structures/Suffix Array.md",
-    "2. Data Structures/Prefix sum.md",
-    "2. Data Structures/MST.md",
-    "2. Data Structures/Monotonic Stack.md",
-    "2. Data Structures/LCA.md",
-    "2. Data Structures/Bitset.md",
-    "2. Data Structures/Trie/Trie.md",
-    "2. Data Structures/Trie/Prefix Trie.md",
-    "2. Data Structures/Trie/Binary Trie.md",
-    "2. Data Structures/Trie/!Problem List.md",
-    "2. Data Structures/SQRT/2.1. Problem List.md",
-    "2. Data Structures/SQRT/SQRT Decomposition.md",
-    "2. Data Structures/SQRT/Mo's alogorithm online.md",
-    "2. Data Structures/SQRT/Mo's Algorithm.md",
-    "2. Data Structures/SQRT/Sources/H. Robin Hood Archery.md",
-    "2. Data Structures/SegmentTree/1.1. Problem List.md",
-    "2. Data Structures/SegmentTree/Merge sort tree.md",
-    "2. Data Structures/SegmentTree/SegmentTree.md",
-    "2. Data Structures/SegmentTree/Wavelet Tree.md",
-    "2. Data Structures/GNU C++ STL/Tree_order_statistics_node_update.md",
-    "2. Data Structures/GNU C++ STL/Ordered Set.md",
-    "2. Data Structures/GNU C++ STL",
-    "4. Graph/Shortest Path/sources",
-    "4. Graph/Heavy-Light Decomposition",
-    "4. Graph/Centroid Decomposition",
-    "4. Graph/!Miscellaneous",
-    "4. Graph/Shortest Path",
-    "4. Graph/Articulation Points and Bridges",
-    "2. Data Structures/Trie"
+    "12. Search/Sources/C. Weakness and Poorness.md",
+    "12. Search/Ternary Search.md",
+    "12. Search/!Problem.md",
+    "12. Search/Sources/D. Devu and his Brother.md",
+    "12. Search/Sources/Building Construction.md",
+    "11. Interactive/Problem List.md",
+    "12. Search/Sources",
+    "12. Search/Untitled.md",
+    "08. Number theory/Binomial Coefficient.md",
+    "08. Number theory/Binary Exponentiation.md",
+    "02. Data Structures/Disjoint Sets Union/!Problem List.md",
+    "12. Search",
+    "02. Data Structures/Disjoint Sets Union/DSU.md",
+    "02. Data Structures/Disjoint Sets Union/Sources/H1. Maximize the Largest Component (Easy Version).md",
+    "04. Graph/Articulation Points and Bridges/!Problem List.md",
+    "04. Graph/Articulation Points and Bridges/Count bridge and joint.md",
+    "04. Graph/Articulation Points and Bridges/Sources/SUBMERGE.md",
+    "04. Graph/Articulation Points and Bridges/Sources/A. Cutting Figure.md",
+    "04. Graph/Articulation Points and Bridges/Sources",
+    "04. Graph/!Miscellaneous/Check in sub tree.md",
+    "Miscellaneous/2D to 1D graph.md",
+    "07. Math/FracBinarySearch.md",
+    "07. Math/Mod Inverse.md",
+    "07. Math/MillerRabin.md",
+    "07. Math/ModLog.md",
+    "07. Math/ModMul.md",
+    "07. Math/PhiFunction.md",
+    "07. Math/ModularArithmetic.md",
+    "07. Math/ModSum.md",
+    "02. Data Structures/Persistent",
+    "02. Data Structures/Trie/Sources",
+    "02. Data Structures/Disjoint Sets Union/Sources",
+    "02. Data Structures/Disjoint Sets Union",
+    "02. Data Structures/GNU C++ STL",
+    "04. Graph/Shortest Path/sources",
+    "04. Graph/Heavy-Light Decomposition"
   ]
 }
