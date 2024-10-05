@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBug",
       "LiCode",
       "LiFolder",
       "LiLibraryBig",
-      "LiListTree",
-      "LiBook"
+      "LiListTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,7 +51,6 @@
   "02. Data Structures/SQRT/Sources": "LiCode",
   "03. Dynamic programming": "LiFolder",
   "04. Graph": "LiFolder",
-  "04. Graph/!Miscellaneous": "LiListTree",
   "04. Graph/Articulation Points and Bridges": "LiBook",
   "04. Graph/Centroid Decomposition": "LiBook",
   "04. Graph/Heavy-Light Decomposition": "LiBook",
@@ -67,5 +66,14 @@
   "02. Data Structures/Trie/Sources": "LiCode",
   "04. Graph/Articulation Points and Bridges/Sources": "LiCode",
   "12. Search": "LiFolder",
-  "12. Search/Sources": "LiCode"
+  "12. Search/Sources": "LiCode",
+  "03. Dynamic programming/Bitmask/Sources": "LiCode",
+  "11. Interactive/Sources": "LiCode",
+  "13. Tree/!Miscellaneous": "LiListTree",
+  "13. Tree/Euler tour": "LiBook",
+  "13. Tree/Euler tour/Sources": "LiCode",
+  "13. Tree/Euler tour/!Problem List.md": "LiListTree",
+  "13. Tree/Small-To-Large Merging/!Problem List.md": "LiListTree",
+  "Template/debug.h.md": "LiBug",
+  "Template/Problem list.md": "LiListTree"
 }

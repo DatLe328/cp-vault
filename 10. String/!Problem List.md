@@ -1,0 +1,5 @@
+|                       Problem link                       |           Problem tab            |                                         Necessary knowledge                                          | Difficulty | Status | Solution |
+| :------------------------------------------------------: | :------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------: | :----: | :------: |
+| [Finding Periods](https://cses.fi/problemset/task/1733/) | Data structures, Hashing, String |                                             [[Hashing]]                                              |    Easy    |   AC   |          |
+| [String Matching](https://cses.fi/problemset/task/1753)  | Data structures, Hashing, String | [[10. String/Suffix Array\|Suffix Array]], [[Hashing]], [[KMP (Knuth-Morris-Pratt)]], [[Z Function]] |    Easy    |   AC   |          |
+| [Finding Borders](https://cses.fi/problemset/task/1732/) | Data structures, Hashing, String |                                                                                                      |    Easy    |   AC   |          |
