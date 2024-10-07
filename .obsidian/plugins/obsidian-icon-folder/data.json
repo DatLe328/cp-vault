@@ -75,5 +75,6 @@
   "13. Tree/Euler tour/!Problem List.md": "LiListTree",
   "13. Tree/Small-To-Large Merging/!Problem List.md": "LiListTree",
   "Template/debug.h.md": "LiBug",
-  "Template/Problem list.md": "LiListTree"
+  "Template/Problem list.md": "LiListTree",
+  "02. Data Structures/Monotonic Stack/sources": "LiCode"
 }

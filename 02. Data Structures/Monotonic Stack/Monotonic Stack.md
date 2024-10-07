@@ -19,7 +19,6 @@
 
 ## **Monotonic Stack**
 > Dùng để kiểm tra phần tử nào lớn hơn gần nhất bên trái
-> https://www.spoj.com/PTIT/problems/SSAM219G/
 ```cpp
 stack<int> st;
 

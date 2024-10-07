@@ -20,13 +20,15 @@ void euler_tour(int u, int p) {
 and only if every vertex of G has even degree. G will have a path but no cycle
 Euler program if and only if G has exactly two vertices of odd degree
 
-**Code: [[Mail Delivery|Euler Cycle]], [[Teleporters Path|Euler Path]]**
+**Code: [[Mail Delivery|Euler Cycle]]**
 
 ![[euler_path_undirected.png]]
+Every vertex of the graph G in the figure above has even degree, so G has an Euler cycle.
 ## B. Directed Graph
 Let G be a directed and weakly connected graph. Then G will have an Euler cycle if and only if G is balanced (every vertex of G has an output degree equal to an input degree). G will have a path but no Euler cycle if and only if G has exactly two vertices of odd degree x and y satisfying:
 $$\left\{ \begin{aligned} d^{+}(x)= d^{-}(x) + 1\\ d^{-}(y)= d^{+}(y)+1 \end{aligned} \right.$$
- Every vertex of the graph G in the figure above has even degree, so G has an Euler cycle.
+
+ **Code: [[Teleporters Path|Euler Path]]**
 
 **Example:** Considering the directed, connected graph G in the figure below, we have:
 ![[euler_path_directed.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Tree/Euler tour/Sources/Teleporters Path.md",
+                "file": "02. Data Structures/Monotonic Stack/!Problem List.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "3f521e11c1a13cf6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Tree/Euler tour/Sources/Teleporters Path.md",
+                "file": "02. Data Structures/Monotonic Stack/!Problem List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Tree/Euler tour/Sources/Teleporters Path.md",
+                "file": "02. Data Structures/Monotonic Stack/!Problem List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Tree/Euler tour/Sources/Teleporters Path.md"
+                "file": "02. Data Structures/Monotonic Stack/!Problem List.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,43 +158,48 @@
   },
   "active": "24fdba9404816d58",
   "lastOpenFiles": [
-    "13. Tree/$image/euler_path_undirected.png",
-    "13. Tree/Euler tour/Euler Tour Technique.md",
-    "13. Tree/$image/euler_path_directed.png",
+    "02. Data Structures/Monotonic Stack/sources/B. Mike and Feet.md",
+    "02. Data Structures/Monotonic Stack/sources/Nearest Smaller Values.md",
+    "02. Data Structures/Monotonic Stack/Monotonic Stack.md",
+    "02. Data Structures/Monotonic Stack/sources/Advertisement.md",
+    "02. Data Structures/Monotonic Stack/!Problem List.md",
+    "02. Data Structures/Monotonic Stack/sources",
+    "02. Data Structures/Monotonic Stack",
+    "07. Math/Mod Inverse.md",
+    "07. Math/ModMul.md",
+    "07. Math/ModLog.md",
+    "07. Math/ModPow.md",
+    "07. Math/MillerRabin.md",
+    "07. Math/Fast Eratothenes.md",
+    "07. Math/Factor.md",
+    "07. Math/Euclid.md",
+    "03. Dynamic programming/Bitmask/Optimal Pairing Problem.md",
+    "03. Dynamic programming/Bitmask/Traveling Salesman Problem (TSP).md",
+    "03. Dynamic programming/Bitmask/Assignment Problem.md",
+    "03. Dynamic programming/Bitmask/Tips & Tricks.md",
+    "03. Dynamic programming/Bitmask/Sources/Grouping.md",
+    "03. Dynamic programming/Bitmask/Sources/Hamiltonian Flights.md",
+    "03. Dynamic programming/Bitmask/Sources/Matching.md",
+    "03. Dynamic programming/Bitmask/!Problem List.md",
+    "03. Dynamic programming/LCS in nlog(n).md",
+    "03. Dynamic programming/image/Pasted image 20241006110201.png",
+    "03. Dynamic programming/image/Pasted image 20241006103959.png",
+    "03. Dynamic programming/image/Pasted image 20241006104050.png",
+    "03. Dynamic programming/image",
+    "Practice.md",
+    "Pasted image 20241006103919.png",
+    "03. Dynamic programming/Tree/Solving for all root.md",
+    "03. Dynamic programming/Bitmask/Sources/Count Permutations.md",
     "13. Tree/Euler tour/Sources/Teleporters Path.md",
-    "13. Tree/Euler tour/Sources/Subtree Queries.md",
-    "13. Tree/Euler tour/Sources/Distinct Colors.md",
-    "13. Tree/Euler tour/Sources/Mail Delivery.md",
-    "[[Mail.md",
-    "[[Teleporters.md",
-    "Teleporters.md",
-    "Template/debug.h.md",
-    "Template/Problem list.md",
-    "style.css.md",
-    "13. Tree/Small-To-Large Merging/Small-To-Large Merging.md",
+    "13. Tree/$image/euler_path_undirected.png",
+    "13. Tree/$image/euler_path_directed.png",
     "Pasted image 20241005112012.png",
     "13. Tree/$image",
-    "13. Tree/Euler tour/!Problem List.md",
-    "13. Tree/Small-To-Large Merging/!Problem List.md",
-    "02. Data Structures/Prefix sum.md",
     "13. Tree/Small-To-Large Merging",
-    "02. Data Structures/Suffix Array.md",
-    "02. Data Structures/MST.md",
-    "02. Data Structures/Monotonic Stack.md",
-    "02. Data Structures/LCA.md",
-    "02. Data Structures/Fenwick Tree.md",
-    "02. Data Structures/Bitset.md",
-    "02. Data Structures/SQRT/Mo's Algorithm.md",
-    "02. Data Structures/SQRT/Mo's alogorithm online.md",
-    "02. Data Structures/SQRT/SQRT Decomposition.md",
-    "02. Data Structures/SQRT/Sources/H. Robin Hood Archery.md",
     "13. Tree/Euler tour/Sources",
     "13. Tree/Euler tour",
     "13. Tree",
     "04. Graph/Tree",
-    "10. String/Hashing",
-    "03. Dynamic programming/Tree",
-    "11. Interactive/Sources",
-    "06. Hashing/Sources"
+    "10. String/Hashing"
   ]
 }
