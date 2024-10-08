@@ -1,5 +1,4 @@
 
-
 BFS 0-1 là phiên bản của BFS được sử dụng cho đồ thị có cạnh trọng số 0 hoặc 1.
 
 Sử dụng deque để đẩy đỉnh với trọng số 0 vào đầu và đỉnh với trọng số 1 vào cuối, từ đó tối ưu hóa việc duyệt các cạnh trọng số 0 và 1.

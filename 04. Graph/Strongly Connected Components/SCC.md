@@ -16,5 +16,3 @@ SCC là các tập hợp con của **đồ thị có hướng** sao cho từ b
 
 - **Phân tích đồ thị**: Xác định các thành phần liên thông mạnh trong đồ thị.
 - **Lập kế hoạch**: Tìm các nhóm công việc có mối quan hệ chặt chẽ.
-## Bài tập
-[CSES](https://cses.fi/problemset/task/1682/)

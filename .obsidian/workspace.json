@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Greedy/Majority Vote Algorithm.md",
+                "file": "13. Tree/Euler tour/!Problem List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Greedy/Majority Vote Algorithm.md",
+                "file": "13. Tree/Euler tour/!Problem List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05. Greedy/Majority Vote Algorithm.md",
+                "file": "13. Tree/Euler tour/!Problem List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05. Greedy/Majority Vote Algorithm.md"
+                "file": "13. Tree/Euler tour/!Problem List.md"
               }
             }
           },
@@ -156,50 +156,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24fdba9404816d58",
+  "active": "4bf89d8b08d1e882",
   "lastOpenFiles": [
-    "05. Greedy/Exchange Argument.md",
+    "13. Tree/Euler tour/Sources/Mail Delivery.md",
+    "13. Tree/Euler tour/!Problem List.md",
+    "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
+    "02. Data Structures/Lowest Common Ancestor/LCA.md",
+    "02. Data Structures/Lowest Common Ancestor/sources",
+    "02. Data Structures/Lowest Common Ancestor",
+    "13. Tree/Euler tour/Sources/Teleporters Path.md",
+    "13. Tree/Euler tour/Euler Tour Technique.md",
+    "04. Graph/Strongly Connected Components/!Problem List.md",
+    "04. Graph/Strongly Connected Components/sources/Flight Routes Check.md",
+    "04. Graph/Strongly Connected Components/sources",
+    "04. Graph/Strongly Connected Components/SCC.md",
+    "04. Graph/Shortest Path/!Problem List.md",
+    "04. Graph/Strongly Connected Components",
+    "04. Graph/Shortest Path/sources/Flight Routes.md",
+    "04. Graph/Shortest Path/sources/Message Route.md",
+    "04. Graph/Shortest Path/sources/Monsters.md",
+    "04. Graph/Shortest Path/sources/Labyrinth.md",
+    "04. Graph/Shortest Path/BFS 0-1.md",
+    "04. Graph/Shortest Path/Dijkstra.md",
+    "04. Graph/Shortest Path/Bellman Fold.md",
+    "04. Graph/Shortest Path/Floyd Warshall.md",
     "05. Greedy/Majority Vote Algorithm.md",
+    "05. Greedy/Exchange Argument.md",
     "04. Graph/Graph Coloring/!Problem List.md",
     "04. Graph/Graph Coloring/sources/Building Teams.md",
     "03. Dynamic programming/Bitmask/Optimal Pairing Problem.md",
     "03. Dynamic programming/Bitmask/Tips & Tricks.md",
     "10. String/Hashing/Hashing.md",
     "02. Data Structures/Trie/!Problem List.md",
-    "13. Tree/Small-To-Large Merging/!Problem List.md",
-    "12. Search/!Problem.md",
-    "13. Tree/Euler tour/!Problem List.md",
-    "10. String/!Problem List.md",
-    "04. Graph/Topological Sorting/!Problem List.md",
-    "04. Graph/Shortest Path/!Problem List.md",
-    "04. Graph/Minimum Spanning Tree/!Problem List.md",
-    "04. Graph/Heavy-Light Decomposition/!Problem List.md",
-    "04. Graph/Articulation Points and Bridges/!Problem List.md",
-    "03. Dynamic programming/Bitmask/!Problem List.md",
-    "02. Data Structures/Monotonic Stack/!Problem List.md",
-    "02. Data Structures/Disjoint Sets Union/!Problem List.md",
-    "02. Data Structures/SegmentTree/1.1. Problem List.md",
-    "02. Data Structures/SQRT/2.1. Problem List.md",
-    "Practice.md",
-    "11. Interactive/Problem List.md",
-    "Template/Problem list.md",
     "04. Graph/Graph Coloring/sources",
     "04. Graph/Graph Coloring",
-    "04. Graph/Shortest Path/sources/Shortest Routes II.md",
     "04. Graph/Minimum Spanning Tree/sources",
     "04. Graph/Minimum Spanning Tree",
     "04. Graph/Topological Sorting/sources",
     "04. Graph/Topological Sorting",
-    "02. Data Structures/Monotonic Stack/sources",
-    "02. Data Structures/Monotonic Stack",
     "03. Dynamic programming/image/Pasted image 20241006110201.png",
     "03. Dynamic programming/image/Pasted image 20241006103959.png",
     "03. Dynamic programming/image/Pasted image 20241006104050.png",
-    "03. Dynamic programming/image",
     "Pasted image 20241006103919.png",
     "13. Tree/$image/euler_path_undirected.png",
     "13. Tree/$image/euler_path_directed.png",
-    "Pasted image 20241005112012.png",
-    "13. Tree/$image"
+    "Pasted image 20241005112012.png"
   ]
 }
