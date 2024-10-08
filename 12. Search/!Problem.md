@@ -1,5 +1,5 @@
 
-|                                Problem link                                 | Problem tab | Necessary knowledge | Difficulty | Status |           Solution           |
+|                                Problem link                                 | Problem tag | Necessary knowledge | Difficulty | Status |           Solution           |
 | :-------------------------------------------------------------------------: | :---------: | :-----------------: | :--------: | :----: | :--------------------------: |
 | [C. Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) |   Search    | [[Ternary Search]]  |   Medium   |   AC   | [[C. Weakness and Poorness]] |
 |       [Building Construction](https://www.spoj.com/problems/KOPC12A/)       |   Search    |                     |   Medium   |   AC   |  [[Building Construction]]   |

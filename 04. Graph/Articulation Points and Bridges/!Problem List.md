@@ -1,4 +1,4 @@
-|                             Problem link                             |           Problem tab           |              Necessary knowledge               | Difficulty | Status |       Solution        |
+|                             Problem link                             |           Problem tag           |              Necessary knowledge               | Difficulty | Status |       Solution        |
 | :------------------------------------------------------------------: | :-----------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------------: |
 |          [GRAPH_VNOI](https://oj.vnoi.info/problem/graph_)           |             DFS/BFS             |           [[Count bridge and joint]]           |    Easy    |   AC   |                       |
 |         [SUBMERGE](https://www.spoj.com/problems/SUBMERGE/)          |             DFS/BFS             |           [[Count bridge and joint]]           |    Easy    |   AC   |     [[SUBMERGE]]      |

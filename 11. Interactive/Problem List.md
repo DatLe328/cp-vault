@@ -1,4 +1,4 @@
-|                                  Problem link                                  |           Problem tab            |   Necessary knowledge   | Difficulty | Status |            Solution            |
+|                                  Problem link                                  |           Problem tag            |   Necessary knowledge   | Difficulty | Status |            Solution            |
 | :----------------------------------------------------------------------------: | :------------------------------: | :---------------------: | :--------: | :----: | :----------------------------: |
 |    [C. Password Cracking](https://codeforces.com/problemset/problem/2013/C)    | constructive algorithms, strings |      Backtracking       |   Medium   |   AC   |                                |
 | [A. Searching Local Minimum](https://codeforces.com/problemset/problem/1479/A) |              Search              |                         |   Medium   |   AC   | [[A. Searching Local Minimum]] |

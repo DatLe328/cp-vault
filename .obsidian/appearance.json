@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
   "baseFontSize": 24,
-  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "textFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font Propo",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font Mono",
   "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
   "enabledCssSnippets": [
     "style"

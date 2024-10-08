@@ -1,5 +1,5 @@
 
-|                           Problem link                            |     Problem tab      | Necessary knowledge | Difficulty | Status |             Solution              |
+|                           Problem link                            |     Problem tag      | Necessary knowledge | Difficulty | Status |             Solution              |
 | :---------------------------------------------------------------: | :------------------: | :-----------------: | :--------: | :----: | :-------------------------------: |
 |      [Advertisement](https://cses.fi/problemset/task/1142/)       |   Data structures    | [[Monotonic Stack]] |   Medium   |   AC   |     [[Advertisement\|Solve]]      |
 |  [Nearest Smaller Values](https://cses.fi/problemset/task/1645/)  |   Data structures    | [[Monotonic Stack]] |            |        | [[Nearest Smaller Values\|Solve]] |
