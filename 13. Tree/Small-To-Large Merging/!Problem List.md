@@ -1,5 +1,5 @@
-|                       Problem link                       |      Problem tab      |                      Necessary knowledge                       | Difficulty | Status |      Solution       |
-| :------------------------------------------------------: | :-------------------: | :------------------------------------------------------------: | :--------: | :----: | :-----------------: |
-| [Distinct Colors](https://cses.fi/problemset/task/1139/) | Tree, Data structures | [[Euler Tour Technique]]. [[Fenwick Tree]], [[Mo's Algorithm]] |   Medium   |   AC   | [[Distinct Colors]] |
-|                                                          |                       |                                                                |            |        |                     |
-|                                                          |                       |                                                                |            |        |                     |
+|                           Problem link                           |      Problem tab      |                                    Necessary knowledge                                     | Difficulty | Status |          Solution           |
+| :--------------------------------------------------------------: | :-------------------: | :----------------------------------------------------------------------------------------: | :--------: | :----: | :-------------------------: |
+|     [Distinct Colors](https://cses.fi/problemset/task/1139/)     | Tree, Data structures | [[Euler Tour Technique]], [[Fenwick Tree]], [[Mo's Algorithm]], [[Small-To-Large Merging]] |   Medium   |   AC   | [[Distinct Colors\|Solve]]  |
+| [E. Lomsat gelral](https://codeforces.com/contest/600/problem/E) | Tree, Data structures |                                 [[Small-To-Large Merging]]                                 |   Medium   |   AC   | [[E. Lomsat gelral\|Solve]] |
+|                                                                  |                       |                                                                                            |            |        |                             |

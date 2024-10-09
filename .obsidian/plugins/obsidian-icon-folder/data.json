@@ -83,5 +83,12 @@
   "04. Graph/Minimum Spanning Tree": "LiBook",
   "04. Graph/Topological Sorting": "LiBook",
   "06. Hashing/sources": "LiCode",
-  "04. Graph/Strongly Connected Components": "LiBook"
+  "04. Graph/Strongly Connected Components": "LiBook",
+  "13. Tree/Small-To-Large Merging": "LiBook",
+  "13. Tree/Small-To-Large Merging/sources": "LiCode",
+  "02. Data Structures/Heavy-Light Decomposition": "LiBook",
+  "02. Data Structures/Lowest Common Ancestor": "LiBook",
+  "02. Data Structures/Monotonic Stack": "LiBook",
+  "02. Data Structures/Persistent": "LiBook",
+  "01. Basic Algorithm/Meet in the middle": "LiBook"
 }

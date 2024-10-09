@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Tree/Euler tour/!Problem List.md",
+                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Tree/Euler tour/!Problem List.md",
+                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Tree/Euler tour/!Problem List.md",
+                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Tree/Euler tour/!Problem List.md"
+                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md"
               }
             }
           },
@@ -156,10 +156,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bf89d8b08d1e882",
+  "active": "24fdba9404816d58",
   "lastOpenFiles": [
-    "13. Tree/Euler tour/Sources/Mail Delivery.md",
+    "01. Basic Algorithm/Meet in the middle/sources/Xor-Paths.md",
+    "01. Basic Algorithm/Meet in the middle/sources/In the Middle.md",
+    "01. Basic Algorithm/Meet in the middle/sources/Maximum Subsequence.md",
+    "01. Basic Algorithm/Meet in the middle/Meet in the middle.md",
+    "01. Basic Algorithm/Meet in the middle/!Problem List.md",
+    "01. Basic Algorithm/Meet in the middle/sources",
+    "01. Basic Algorithm/Meet in the middle",
+    "02. Data Structures/Heavy-Light Decomposition/soucres/Path Queries II.md",
+    "02. Data Structures/Heavy-Light Decomposition/HLD.md",
+    "02. Data Structures/Heavy-Light Decomposition/!Problem list.md",
+    "02. Data Structures/Heavy-Light Decomposition/soucres/Cow Land.md",
+    "02. Data Structures/SegmentTree/SegmentTree.md",
+    "02. Data Structures/Heavy-Light Decomposition/soucres",
+    "04. Graph/Articulation Points and Bridges/Count bridge and joint.md",
+    "02. Data Structures/!Note.md",
+    "03. Dynamic programming/Tree/Solving for all root.md",
+    "02. Data Structures/Heavy-Light Decomposition",
+    "13. Tree/Small-To-Large Merging/!Problem List.md",
+    "13. Tree/Small-To-Large Merging/sources/E. Lomsat gelral.md",
+    "13. Tree/Small-To-Large Merging/sources",
+    "13. Tree/Small-To-Large Merging/Small-To-Large Merging.md",
+    "13. Tree/Euler tour/Sources/Distinct Colors.md",
     "13. Tree/Euler tour/!Problem List.md",
+    "13. Tree/Euler tour/Sources/Mail Delivery.md",
     "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
     "02. Data Structures/Lowest Common Ancestor/LCA.md",
     "02. Data Structures/Lowest Common Ancestor/sources",
@@ -170,30 +192,8 @@
     "04. Graph/Strongly Connected Components/sources/Flight Routes Check.md",
     "04. Graph/Strongly Connected Components/sources",
     "04. Graph/Strongly Connected Components/SCC.md",
-    "04. Graph/Shortest Path/!Problem List.md",
     "04. Graph/Strongly Connected Components",
-    "04. Graph/Shortest Path/sources/Flight Routes.md",
-    "04. Graph/Shortest Path/sources/Message Route.md",
-    "04. Graph/Shortest Path/sources/Monsters.md",
-    "04. Graph/Shortest Path/sources/Labyrinth.md",
-    "04. Graph/Shortest Path/BFS 0-1.md",
-    "04. Graph/Shortest Path/Dijkstra.md",
-    "04. Graph/Shortest Path/Bellman Fold.md",
-    "04. Graph/Shortest Path/Floyd Warshall.md",
-    "05. Greedy/Majority Vote Algorithm.md",
-    "05. Greedy/Exchange Argument.md",
-    "04. Graph/Graph Coloring/!Problem List.md",
-    "04. Graph/Graph Coloring/sources/Building Teams.md",
-    "03. Dynamic programming/Bitmask/Optimal Pairing Problem.md",
-    "03. Dynamic programming/Bitmask/Tips & Tricks.md",
-    "10. String/Hashing/Hashing.md",
-    "02. Data Structures/Trie/!Problem List.md",
     "04. Graph/Graph Coloring/sources",
-    "04. Graph/Graph Coloring",
-    "04. Graph/Minimum Spanning Tree/sources",
-    "04. Graph/Minimum Spanning Tree",
-    "04. Graph/Topological Sorting/sources",
-    "04. Graph/Topological Sorting",
     "03. Dynamic programming/image/Pasted image 20241006110201.png",
     "03. Dynamic programming/image/Pasted image 20241006103959.png",
     "03. Dynamic programming/image/Pasted image 20241006104050.png",

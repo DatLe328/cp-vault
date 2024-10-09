@@ -1,4 +1,4 @@
-#Graphs, #BridgeAndJoint
+#graph
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;

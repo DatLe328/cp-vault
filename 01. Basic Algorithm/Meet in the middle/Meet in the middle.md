@@ -1,3 +1,4 @@
+#meet-in-the-middle
 # Meet in the middle
 
 Meet in the Middle là kỹ thuật chia bài toán thành hai nửa và giải quyết từng phần độc lập, sau đó kết hợp kết quả.

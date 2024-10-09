@@ -1,3 +1,4 @@
+#tree
 **A way to merge two sets efficiently.**
 Let's consider a tree rooted at node 111, where each node has a color.
 
