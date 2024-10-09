@@ -7,9 +7,9 @@ using namespace std;
 #else
 #define debug(...) 42
 #endif
- 
+
 const int MAX_N = 2e5 + 1;
- 
+
 int st[MAX_N * 2];
 int depth[MAX_N], pos[MAX_N], val[MAX_N], sz[MAX_N], par[MAX_N],
     chain_id[MAX_N];

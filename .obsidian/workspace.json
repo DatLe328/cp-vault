@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md",
+                "file": "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md",
+                "file": "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md",
+                "file": "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Basic Algorithm/Meet in the middle/!Problem List.md"
+                "file": "02. Data Structures/Lowest Common Ancestor/!Problem list.md"
               }
             }
           },
@@ -158,20 +158,32 @@
   },
   "active": "24fdba9404816d58",
   "lastOpenFiles": [
+    "02. Data Structures/Lowest Common Ancestor/sources/Distance Queries.md",
+    "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
+    "02. Data Structures/Lowest Common Ancestor/LCA.md",
+    "02. Data Structures/Lowest Common Ancestor/sources/Company Queries II.md",
+    "02. Data Structures/Lowest Common Ancestor/sources/Lubenica.md",
+    "02. Data Structures/Heavy-Light Decomposition/soucres/Path Queries II.md",
+    "02. Data Structures/Heavy-Light Decomposition/HLD.md",
+    "02. Data Structures/Heavy-Light Decomposition/soucres/F. Ehab and the Big Finale.md",
+    "02. Data Structures/Heavy-Light Decomposition/!Problem list.md",
+    "02. Data Structures/!image/Pasted image 20241009212420.png",
+    "02. Data Structures/!image",
+    "11. Interactive/Interactive.md",
+    "04. Graph/Articulation Points and Bridges/!Problem List.md",
+    "04. Graph/Articulation Points and Bridges/Sources/A. Cutting Figure.md",
+    "04. Graph/Articulation Points and Bridges/Count bridge and joint.md",
+    "04. Graph/Articulation Points and Bridges/Sources/SUBMERGE.md",
+    "01. Basic Algorithm/Meet in the middle/!Problem List.md",
     "01. Basic Algorithm/Meet in the middle/sources/Xor-Paths.md",
     "01. Basic Algorithm/Meet in the middle/sources/In the Middle.md",
     "01. Basic Algorithm/Meet in the middle/sources/Maximum Subsequence.md",
     "01. Basic Algorithm/Meet in the middle/Meet in the middle.md",
-    "01. Basic Algorithm/Meet in the middle/!Problem List.md",
     "01. Basic Algorithm/Meet in the middle/sources",
     "01. Basic Algorithm/Meet in the middle",
-    "02. Data Structures/Heavy-Light Decomposition/soucres/Path Queries II.md",
-    "02. Data Structures/Heavy-Light Decomposition/HLD.md",
-    "02. Data Structures/Heavy-Light Decomposition/!Problem list.md",
     "02. Data Structures/Heavy-Light Decomposition/soucres/Cow Land.md",
     "02. Data Structures/SegmentTree/SegmentTree.md",
     "02. Data Structures/Heavy-Light Decomposition/soucres",
-    "04. Graph/Articulation Points and Bridges/Count bridge and joint.md",
     "02. Data Structures/!Note.md",
     "03. Dynamic programming/Tree/Solving for all root.md",
     "02. Data Structures/Heavy-Light Decomposition",
@@ -179,21 +191,10 @@
     "13. Tree/Small-To-Large Merging/sources/E. Lomsat gelral.md",
     "13. Tree/Small-To-Large Merging/sources",
     "13. Tree/Small-To-Large Merging/Small-To-Large Merging.md",
-    "13. Tree/Euler tour/Sources/Distinct Colors.md",
-    "13. Tree/Euler tour/!Problem List.md",
-    "13. Tree/Euler tour/Sources/Mail Delivery.md",
-    "02. Data Structures/Lowest Common Ancestor/!Problem list.md",
-    "02. Data Structures/Lowest Common Ancestor/LCA.md",
     "02. Data Structures/Lowest Common Ancestor/sources",
     "02. Data Structures/Lowest Common Ancestor",
-    "13. Tree/Euler tour/Sources/Teleporters Path.md",
-    "13. Tree/Euler tour/Euler Tour Technique.md",
-    "04. Graph/Strongly Connected Components/!Problem List.md",
-    "04. Graph/Strongly Connected Components/sources/Flight Routes Check.md",
     "04. Graph/Strongly Connected Components/sources",
-    "04. Graph/Strongly Connected Components/SCC.md",
     "04. Graph/Strongly Connected Components",
-    "04. Graph/Graph Coloring/sources",
     "03. Dynamic programming/image/Pasted image 20241006110201.png",
     "03. Dynamic programming/image/Pasted image 20241006103959.png",
     "03. Dynamic programming/image/Pasted image 20241006104050.png",
